@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mukul Raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
